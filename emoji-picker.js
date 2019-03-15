@@ -18,7 +18,7 @@
   var Picker = {};
 
   Picker.defaults = {
-    imagePath: "/sheets/sheet_apple_64_indexed_128.png",
+    imagePath: "sheets/sheet_apple_64_indexed_128.png",
     iconType: "emoji", // image, font (uses classes)
     iconEmoji: "smile",
     iconClass: "", // for sizing and styling
